@@ -2,6 +2,6 @@
 
 Chatbots for astrology guidance using Ollama and Django
 
-<div align="center">
-  <img src="chat.png" width="300"/>
+<div align="left">
+  <img src="chat.png" width="500"/>
 </div>
